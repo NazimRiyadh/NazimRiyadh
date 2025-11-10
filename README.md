@@ -150,24 +150,6 @@ const riyadh = {
 
 ---
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 💡 Description | 🛠️ Tech Stack | ⭐ |
-|-----------|---------------|---------------|-----|
-| **[Project Name 1](#)** | Brief description of your awesome project | `React` `Node.js` `MongoDB` | ![](https://img.shields.io/github/stars/NazimRiyadh/repo?style=social) |
-| **[Project Name 2](#)** | AI/ML project that does something cool | `Python` `TensorFlow` `OpenCV` | ![](https://img.shields.io/github/stars/NazimRiyadh/repo?style=social) |
-| **[Project Name 3](#)** | Full-stack application description | `TypeScript` `Express` `MySQL` | ![](https://img.shields.io/github/stars/NazimRiyadh/repo?style=social) |
-
-<sub>⭐ **[View All Projects →](https://github.com/NazimRiyadh?tab=repositories)**</sub>
-
-</div>
-
-<br/>
-
----
-
 ## 🐍 Watch My Contribution Graph Get Eaten
 
 <picture>
