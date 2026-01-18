@@ -49,7 +49,7 @@ const riyadh = {
 
 ---
 
-## 🏅 Competitive Programming
+## 🏅 Problem Solving
 
 <div align="center">
 
