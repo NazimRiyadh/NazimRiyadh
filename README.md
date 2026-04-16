@@ -3,7 +3,7 @@
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nazim%20Riyadh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-### Full Stack Developer | ML Engineer | UI/UX Designer
+### Full Stack Developer | ML Engineer 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+AI-powered+applications;Crafting+elegant+user+experiences;Solving+problems+through+code;Always+learning%2C+always+building" alt="Typing SVG" />
