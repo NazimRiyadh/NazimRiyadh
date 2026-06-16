@@ -198,11 +198,11 @@ Complete e-commerce solution with advanced product filtering and user experience
 
 ```javascript
 const nazim = {
-  currentlyLearning: ["Advanced System Design", "Web3 & Blockchain", "Cloud Architecture"],
+  currentlyLearning: ["Advanced System Design", "Production Backend", "Cloud & Infra"],
   passions: ["Building scalable applications", "AI/ML innovation", "UI/UX Design"],
   funFact: "I turn ☕ coffee into code & 🐛 bugs into features",
   goal: "Creating meaningful solutions that impact millions",
-  motto: "Code today, inspire tomorrow 🚀"
+  motto: "Live - Learn - Conquer"
 };
 ```
 
