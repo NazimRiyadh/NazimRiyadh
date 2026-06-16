@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nazimriyadh.vercel.app"><img src="https://readme-typing-svg.demolab.com/?lines=Crafting%20elegant%20digital%20solutions;Building%20AI-powered%20web%20applications;Competitive%20Programming%20Enthusiast;Full%20Stack%20%26%20ML%20Engineering&font=Fira%20Code&center=true&width=600&height=50&color=4ECDC4&vCenter=true&pause=1000&size=20" alt="Typing SVG" /></a>
+  <a href="https://nazimriyadh.vercel.app"><img src="https://readme-typing-svg.demolab.com/?lines=Building%20AI-powered%20web%20applications;Full%20Stack%20%26%20AI%20Researcher&font=Fira%20Code&center=true&width=600&height=50&color=4ECDC4&vCenter=true&pause=1000&size=20" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social Links with Icons -->
