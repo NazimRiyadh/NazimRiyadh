@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://nazimriyadh.vercel.app">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=250&section=header&text=Nazim%20E.%20Alam&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20ML%20Engineer%20|%20UI/UX%20Enthusiast&descAlignY=55&descAlign=50" alt="header">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=250&section=header&text=Nazim%20E.%20Alam&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI_Reseacher&descAlignY=55&descAlign=50" alt="header">
   </a>
 </p>
 
@@ -44,9 +44,7 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder" width="300">
 
 - 🎯 **Full Stack Developer** specializing in **React**, **Node.js**, and **Next.js**
-- 🤖 **ML Engineer** passionate about **TensorFlow**, **PyTorch**, and **Deep Learning**
-- 🎨 **UI/UX Designer** crafting beautiful interfaces with **Figma** and **Adobe Suite**
-- 🏆 **Competitive Programmer** solving on **LeetCode** & **Codeforces**
+- 🤖 **AI Researcher** passionate about **TensorFlow**, **PyTorch**, and **Deep Learning**
 - 💼 **Open to** freelance projects, collaborations & opportunities
 - 📍 Based in **Dhaka, Bangladesh** 🇧🇩
 
@@ -66,7 +64,7 @@
   <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
-Intelligent AI platform for modern workflows with advanced ML capabilities
+API Monitoring System 
 > **Tech**: React • Node.js • MongoDB • TensorFlow • Tailwind CSS • JWT
 
 ---
@@ -82,15 +80,6 @@ Intelligent AI platform for modern workflows with advanced ML capabilities
 Complete e-commerce solution with advanced product filtering and user experience
 > **Tech**: React • Redux • Express • MongoDB • Stripe • Tailwind CSS
 
----
-
-### 🏪 **Big Bazar** - Marketplace Platform
-<a href="https://github.com/NazimRiyadh/BigBazar">
-  <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-
-Comprehensive marketplace connecting buyers and sellers with secure transactions
-> **Tech**: MERN Stack • JWT • Stripe Integration • Firebase • Socket.io
 
 </div>
 
@@ -172,26 +161,6 @@ Comprehensive marketplace connecting buyers and sellers with secure transactions
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NazimRiyadh&theme=radical&utcOffset=6" alt="Productive Time"/>
   </p>
 </details>
-
----
-
-## 🏆 Competitive Programming
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/neariyadh786?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" width="100%"/>
-</p>
-
-<p align="center">
-  <a href="https://codeforces.com/profile/nazim.riyadh">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=nazim.riyadh&theme=github_dark&force_username=true&border_color=4ECDC4" alt="Codeforces Stats" width="100%"/>
-  </a>
-</p>
-
-<div align="center">
-
-**💡 Actively solving algorithmic challenges • Ranked among top competitive programmers**
-
-</div>
 
 ---
 
