@@ -43,8 +43,8 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder" width="300">
 
-- 🎯 **Full Stack Developer** specializing in **React**, **Node.js**, and **Next.js**
-- 🤖 **AI Researcher** passionate about **TensorFlow**, **PyTorch**, and **Deep Learning**
+- 🎯 **Full Stack Developer** with focus in **Backend and Production Systems**
+- 🤖 **AI Researcher** passionate about **Machine Learning**, **Deep Learning**, **NLP** , **LLM**
 - 💼 **Open to** freelance projects, collaborations & opportunities
 - 📍 Based in **Dhaka, Bangladesh** 🇧🇩
 
@@ -70,7 +70,7 @@ API Monitoring System
 ---
 
 ### 🛍️ **Tech Trio** - Full-Featured E-Commerce
-<a href="https://tech-trio-one.vercel.app/">
+<a href="https://techtrio-mu.vercel.app/">
   <img src="https://img.shields.io/badge/Live%20Demo-Visit-4ECDC4?style=for-the-badge&logo=vercel" alt="Live Demo"/>
 </a>
 <a href="https://github.com/NazimRiyadh/BigBazar">
